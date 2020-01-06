@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "leetcode"
+name = "pythonb_practice"
 version = "0.1.0"
 description = ""
 authors = ["Aditya Gudimella <aditya.gudimella@gmail.com>"]

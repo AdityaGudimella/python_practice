@@ -1,4 +1,4 @@
-from leetcode import __version__
+from python_practice import __version__
 
 
 def test_version():
